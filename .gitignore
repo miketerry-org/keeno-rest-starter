@@ -1,6 +1,7 @@
 .ds_store
 .env
 .git
-lib2/
+_decrypted/
+_secret.key
 node_modules
 package-lock.json
